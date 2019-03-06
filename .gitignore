@@ -10,7 +10,6 @@ yarn.lock
 /coverage
 
 # Build
-/lib
 
 # OS - OSX
 .DS_Store
